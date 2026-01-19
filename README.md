@@ -1,6 +1,6 @@
 # 💫 Hi 👋, I'm Ascharyjeet singh
 
-Email Me 👉 ✉️ **harshsaini805447@gmail.com** Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **harshsaini805447@gmail.com**For Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Analog Clock
 - 🌱 **I’m currently learning:** JavaScript
