@@ -2,6 +2,9 @@
 
 Email Me 👉 ✉️ **harshsaini805447@gmail.com**For Project or Anything Else. 😊😊
 
+<img align="right" alt="coding" width="400" src="<img width="283" height="178" alt="image" src="https://github.com/user-attachments/assets/8ad873ce-6f8b-4b83-837d-8d2b0783528a" />
+"
+
 - 🔭 **I’m currently Studying computer Science:** 
 - 🌱 **I’m currently learning:** JavaScript
 - 💬 **Ask me about:**  my project
