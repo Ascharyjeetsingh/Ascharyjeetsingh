@@ -12,6 +12,7 @@ Email Me 👉 ✉️ **harshsaini805447@gmail.com**For Project or Anything Else.
 - 😄 **Pronouns:** Aschary
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/im_harsh__89) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ascharyjeet singh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshsaini805447@gmail.com) 
 
