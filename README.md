@@ -2,7 +2,7 @@
 
 Email Me 👉 ✉️ **harshsaini805447@gmail.com**For Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Frontened Projects
+- 🔭 **I’m currently Studying computer Science:** 
 - 🌱 **I’m currently learning:** JavaScript
 - 💬 **Ask me about:**  my project
 - 📫 **How to reach me:** harshsaini805447@gmail.com
