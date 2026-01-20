@@ -1,8 +1,10 @@
+<img width="1584" height="396" alt="Navy Blue Geometric Technology LinkedIn Banner" src="https://github.com/user-attachments/assets/cb0f2391-1c5b-4a0b-8cb2-e811d4c8c274" />
+
 # 💫 Hi 👋, I'm Ascharyjeet singh
 
 Email Me 👉 ✉️ **harshsaini805447@gmail.com**For Project or Anything Else. 😊😊
 
-<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/8ad873ce-6f8b-4b83-837d-8d2b0783528a" />
+<img align="right" alt="coding" width="300" src="https://github.com/user-attachments/assets/8ad873ce-6f8b-4b83-837d-8d2b0783528a" />
 
 
 - 🔭 **I’m currently Studying computer Science:** 
